@@ -1,0 +1,170 @@
+{
+  "general": {
+    "see-more": "See More",
+    "book-appointment": "Book Appointment"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "services": "Services",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+  "home": {
+    "heading": "Unlock the secrets of radiant skin and the essential insights of physiotherapy",
+    "with-me": "with me",
+    "name": "Dr. Lina",
+    "scroll-text": "Dive down to start the journey"
+  },
+  "about-me": {
+    "line1": "Welcome to Dr. Lina Hamzeh's official website.",
+    "line2": "I am so glad you are here.",
+    "line3": "I am Dr. Lina, a dedicated non-surgical Aesthetic Dermatologist. I'm your guide in addressing and treating various aesthetic skin conditions like acne, hyperpigmentation, melasma, rosacea, scars, wrinkles and sagging skin, atopic skin conditions like psoriasis and keratosis pilaris, hair and nail disorders, hyperhidrosis and many more.",
+    "line4": "In addition, I am a Physiotherapist with 5+ years of experience, focusing on treating several musculoskeletal conditions like frozen shoulder, tendinitis, back and neck pain, degenerative disc diseases, fibromyalgia, myofascial pain syndrome, migraine, sports injuries, arthritis and a lot more. Besides, advanced therapy techniques are used during the session like dynamic cupping, acupuncture and electric acupuncture, advanced muscle recovery techniques, and auricular therapy. These techniques alleviate pain, enhance muscle recovery, improve body posture and balance, increase muscle performance and joint range of motion, and elevate vestibular function.",
+    "line5": "We offer a comprehensive experience in wellness by mixing aesthetic medicine with physical health. You can discover all "
+  },
+  "resume": {
+    "experience": {
+      "title": "Experience",
+      "exp1": {
+        "position": "Doctor in Dermoaesthetic and Facial Medicine",
+        "period": "2023 - Present",
+        "description": "Specializing in Dermoaesthetic and Facial Medicine, professional in treating various aesthetic skin conditions such as hyperpigmentation, fine lines and wrinkles, acne scars, fat lipolysis, hair loss, tattoo removal, and rosacea, using non-surgical aesthetic techniques."
+      },
+      "exp2": {
+        "position": "Professional Cosmetic Dermatologist",
+        "period": "2023 - Present",
+        "description": "Specializing in Cosmetic dermatology by prescribing a full skincare or skin cure treatment routine based on cosmetic drugs or skin care products regarding skin type and skin condition like skincare routine for sensitive skin, oily skin, dry skin and skin cure routine to treat atopic skin, cellulite, acne, scars and much more."
+      },
+      "exp3": {
+        "position": "Physiotherapist",
+        "period": "2019 - Present",
+        "description": "Reliable Physical Therapist, passionate about helping people improve their mobility, enhance their quality of life, and prevent musculoskeletal injury. With 5+ years of experience as a physical therapist, I have recently expanded my practice as an acupuncturist and muscle recovery specialist."
+      }
+    },
+    "education": {
+      "title": "Education",
+      "edu1": {
+        "period": "2024 - 2024",
+        "degree": "Post Graduate Diploma in Dermoaesthetic and Facial Medicine (720 training hours)",
+        "institution": "Tech Global Technological University - Spain"
+      },
+      "edu2": {
+        "period": "2024 - 2024",
+        "degree": "Professional Cosmetic Dermatology Diploma: Skin Care and Skin Cure",
+        "institution": "ZmedCoach - first interactive medical and social educational platform in the Arab World"
+      },
+      "edu3": {
+        "period": "2013 - 2017",
+        "degree": "Bachelor in Physical Therapy",
+        "institution": "Beirut Arab University"
+      }
+    },
+    "certificates": {
+      "title": "Certificates",
+      "cert1": {
+        "name": "Evidenced Based Acupuncture",
+        "institution": "Doctors Association in Lebanon"
+      },
+      "cert2": {
+        "name": "Scar Reduction",
+        "institution": "Rejuvi Medical"
+      },
+      "cert3": {
+        "name": "Islamic and Chinese Cupping",
+        "institution": "IABC Media"
+      },
+      "cert4": {
+        "name": "Training of Trainers",
+        "institution": "IABC Media"
+      },
+      "cert5": {
+        "name": "VooDoo Flossing Techniques",
+        "institution": "OMT Training"
+      }
+    }
+  },
+  "services": {
+    "heading": "Explore my services and find the perfect path to your health and wellness.",
+    "ser1": {
+      "name": "Facial Treatment",
+      "description": "HydraFacial, Classic Facial, Microdermabrasion, Hydra dermabrasion, Dermaplaning, Oxygen Induction, Oxygeneo Facial, Enzymatic Facial, Fibro blasting Facial, Microneedling Facial, Electrical Face Sculpting, LED Biolight Treatment, Cosmetic Acupuncture, Cupping Facial"
+    },
+    "ser2": {
+      "name": "Mesotherapy Injections",
+      "description": "Amber, Anti Pigmento, Botox and Fillers, PRP, Undereyes Skin Rejuvenating, Lips Plumping Mesotherapy, Notox Injections, Exosome Treatment, Skin Boosters Like Profhilo, Polynucleotides, Sculptra..."
+    },
+    "ser3": {
+      "name": "Acupuncture",
+      "description": "Trigger Points, Migraine, Tendinitis, Low Back Pain, Neck Pain, Chronic Muscle pain, Fibromyalgia, Facial Palsy, Arthritis, Electrical Acupuncture, Frozen Shoulder, Knee Pain, Stress Management"
+    },
+    "ser4": {
+      "name": "Body Care",
+      "description": "Treating All Skin Conditions Including Back Acne, Hyperpigmentation, Sagging Skin, Fine Lines and Wrinkles, Androgenic Alopecia, Hair Loss, Mole and Skin tags, Scars and Stretch Marks, Keratosis Pilaris, Psoriasis, Atopic Skin like Atopic Dermatitis, Seborrheic Dermatitis, Keratosis Pilaris, Brittle Nails, Cellulite, Tattoo Removal"
+    },
+    "ser5": {
+      "name": "Auricular Therapy",
+      "description": "Ear Seeding, Ear Acupuncture, Ear Wax"
+    },
+    "ser6": {
+      "name": "Botolinum Toxins Therapy",
+      "description": "Hyperhidrosis, Barbie Neck for Severe Neck Muscle Pain, Migraine, Tendinitis, Spastic Disorders, Aesthetic Care"
+    },
+    "ser7": {
+      "name": "Cupping Therapy",
+      "description": "Cupping Massage, Dry Cupping, Wet Cupping"
+    },
+    "ser8": {
+      "name": "Body Fat and Cellulite Treatment",
+      "description": "Cavitation Treatment, Rotating Body Roller, Laser Lipolysis Treatment, Maderotherapy, EMS Electric Muscle Stimulation, Fat Dissolving Injections Including Belly, Arms, Legs and Double Chin Areas"
+    },
+    "ser9": {
+      "name": "Intravaginal Electrical Stimulation",
+      "description": "Urinary Incontinence, Period Pain, Pelvic Floor Muscle Weakness (Post Partum)"
+    },
+    "ser10": {
+      "name": "Hair Care",
+      "description": "Anti-Hair Loss, Dry and Frizzy Hair, Split Ends, Hair Nourishing and Anti Dandruff Treatments, PRP and Exosomes"
+    },
+    "ser11": {
+      "name": "Lymphatic Drainage",
+      "description": "Manual Lymphatic Massage, Pressotherapy, MaderoTherapy"
+    },
+    "ser12": {
+      "name": "Massage",
+      "description": "Hot Stones, Relaxation Massage, Cupping Massage, Moxibustion, MaderoTherapy, Rotating Body Roller"
+    },
+    "ser13": {
+      "name": "Muscle Recovery",
+      "description": "Kinesio Tape, IASTM, Cupping, Acupuncture"
+    },
+    "ser14": {
+      "name": "Physiotherapy",
+      "description": "Muscle Energy Techniques, Myofascial Release, Voodoo Flossing, Visual Tracking, Functional Vestibular Training, Balance Training, TENs, Interferential, Triangular Pulse, Joint Mobilization, Mobilization with Movement, Stretching, Strength Training, Acoustic Therapy, Laser Healing, Shockwave, Heat and Cryotherapy"
+    },
+    "ser15": {
+      "name": "All Scars Reduction",
+      "description": "Subcision, Rejuvi Scar Reduction, Laser Treatment, Anti-Scar Injections, Micro-needling, Acid Peel, Hypertrophic Scars Injections, Ozone Plasma Treatment"
+    },
+    "ser16": {
+      "name": "Tattoo Removal",
+      "description": "For body and face areas like eyebrows and lips"
+    },
+    "ser17": {
+      "name": "Laser Treatment",
+      "description": "Hair Bleaching for Face and Body, All Scars Treatment, Hyperpigmentation, Lips Plumping"
+    },
+    "ser18": {
+      "name": "Online Consultaion",
+      "description": "Online Consultation"
+    }
+  },
+  "contact": {
+    "heading": "If you have inquiries, please don't hesitate to get in touch. You are always welcome.",
+    "address": "Address",
+    "whatsapp": "WhatsApp",
+    "email": "Email Address",
+    "addressValue": "Saida, Lebanon"
+  }
+}
